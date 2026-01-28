@@ -24,7 +24,7 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
 
    # The Analysis
    
- Each query for ths project aimed at investigating specific aspects of the data analyst jobs market. Here is how l approached each questions:
+ Each query for this project aimed at investigating specific aspects of the data analyst jobs market. Here is how I approached each questions:
 
  1. Top Paying Data Analyst Jobs
 
